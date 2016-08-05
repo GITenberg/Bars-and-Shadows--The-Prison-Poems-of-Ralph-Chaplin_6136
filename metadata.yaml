@@ -1,0 +1,43 @@
+_repo: Bars-and-Shadows--The-Prison-Poems-of-Ralph-Chaplin_6136
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Nearing, Scott
+    birthdate: 1883
+    deathdate: 1983
+    gutenberg_agent_id: '4313'
+    url: http://www.gutenberg.org/2009/agents/4313
+    wikipedia: http://en.wikipedia.org/wiki/Scott_Nearing
+creator:
+  author:
+    agent_name: Chaplin, Ralph
+    alias: Chaplin, Ralph Hosea
+    birthdate: 1887
+    deathdate: 1961
+    gutenberg_agent_id: '1967'
+    url: http://www.gutenberg.org/2009/agents/1967
+    wikipedia: http://en.wikipedia.org/wiki/Ralph_Chaplin
+description: ''
+gutenberg_issued: '2004-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6136'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Imprisonment -- Poetry'
+- !lcsh 'Prisons -- United States -- Poetry'
+- !lcsh 'Prisoners'' writings, American'
+- GITenberg
+tableOfContents: Mourn not the dead -- Taps -- Night in the cell house -- Prison shadows
+  -- Prison reveille -- Prison nocturne -- The warrior wind -- To freedom -- The vision
+  maker -- Distances -- Phantoms -- Seven little sparrows -- Salaam! -- The W est
+  is dead -- Up from your knees! -- The eunuch -- I. W. W. prison song -- To France
+  -- Villanelle -- Wesley Everest -- The industrial heretics -- Blood and wine --
+  The red guard -- The red feast -- The girls who sang for us -- To Edith -- Song
+  of separation -- To my little son -- Escaped! -- Retrospect.
+title: 'Bars and Shadows: The Prison Poems of Ralph Chaplin'
+url: http://www.gutenberg.org/ebooks/6136
